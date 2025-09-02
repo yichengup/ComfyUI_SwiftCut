@@ -17,6 +17,12 @@ pip install torch numpy pillow
 
 3. Restart ComfyUI
 
+
+
+https://github.com/user-attachments/assets/d353c911-2364-4d81-b6d8-7a28b06c8ce4
+
+
+
 ## 🛠️ Available Nodes
 
 ### Image Processing Nodes
