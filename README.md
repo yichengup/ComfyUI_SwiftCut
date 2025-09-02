@@ -117,7 +117,7 @@ Extended selection capabilities with complex pattern support.
 - **Batch Processing**: Multiple selection operations
 - **Safety Controls**: Comprehensive error handling
 
-####  如果您受益于本项目，不妨请作者喝杯咖啡，您的支持是我最大的动力
+#### 如果您受益于本项目，不妨请作者喝杯咖啡，您的支持是我最大的动力
 <img width="1536" height="841" alt="未标题-2" src="https://github.com/user-attachments/assets/a562fcfd-cb65-4695-a2a8-ca3eb6a6db67" />
 
 
